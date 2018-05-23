@@ -1,5 +1,5 @@
 # Instructions
-Clone this repository to your computer. Run "Donkey Kong.jar" to play the game.
+Clone or download this repository. Run "Donkey Kong.jar" to play the game.
 
 All java files are contained in /donkeykong
 
